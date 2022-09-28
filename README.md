@@ -28,6 +28,8 @@ zheng-dev-base   latest                              cd415511157b   2 hours ago 
 nvidia/cuda      11.7.1-cudnn8-runtime-ubuntu20.04   0b5ba72bc741   6 weeks ago    2.92GB
 nvidia/cuda      10.1-cudnn7-runtime-ubuntu18.04     b22710d3a31a   4 months ago   1.71GB
 ```
+
+Install nvidia-container-toolkit
 ```bash
 # Setup the package repository and the GPG key
 distribution=$(. /etc/os-release;echo $ID$VERSION_ID) \
