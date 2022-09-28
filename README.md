@@ -1,5 +1,4 @@
-# DockerDevEnv
-How to create a docker dev env for mmrotate
+# DockerDevEnv - How to create a docker dev env for mmrotate
 
 # Step 1: Pull docker/cuda and install nvidia-container-toolkit
 
