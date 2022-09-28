@@ -24,7 +24,6 @@ docker pull nvidia/cuda:11.7.1-runtime-ubuntu20.04
 docker images
 
 REPOSITORY       TAG                                 IMAGE ID       CREATED        SIZE
-zheng-dev-base   latest                              cd415511157b   2 hours ago    3.39GB
 nvidia/cuda      11.7.1-cudnn8-runtime-ubuntu20.04   0b5ba72bc741   6 weeks ago    2.92GB
 nvidia/cuda      10.1-cudnn7-runtime-ubuntu18.04     b22710d3a31a   4 months ago   1.71GB
 ```
